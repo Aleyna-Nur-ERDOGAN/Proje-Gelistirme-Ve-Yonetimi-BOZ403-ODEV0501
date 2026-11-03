@@ -1,1 +1,1 @@
-# Proje-Geli-tirme-Ve-Y-netimi-B-Z403-DEV0501
+# Proje-Gelistirme-Ve-Yonetimi-BOZ403-ODEV0501
